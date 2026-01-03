@@ -105,17 +105,6 @@ API available at `http://localhost:3000`
 }
 ```
 
-**Response:**
-```json
-{
-  "success": true,
-  "message": "Order created successfully",
-  "orderId": "order-1234567890"
-}
-```
-
----
-
 ## 🛠️ **Tech Stack**
 
 - **NestJS** - Framework
@@ -131,7 +120,3 @@ API available at `http://localhost:3000`
 ✅ **No data loss** - Messages persist in queues  
 ✅ **Reliable** - Messages retry if service fails  
 ✅ **Scalable** - Services work independently  
-
----
-
-**Happy Learning! 🚀**
